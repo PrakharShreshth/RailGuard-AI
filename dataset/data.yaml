@@ -1,0 +1,11 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+
+names:
+  0: bolt_missing
+  1: clip_missing
+  2: crack
+  3: normal_track
